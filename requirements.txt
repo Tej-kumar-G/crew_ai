@@ -1,0 +1,7 @@
+crewai
+crewai[tools]
+html2text
+markdown
+googlesearch-python
+requests
+beautifulsoup4
